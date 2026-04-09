@@ -12,8 +12,8 @@ El enfoque principal de las prácticas es la **programación en Shell** para la 
 
 El trabajo está dividido en 4 prácticas. Cada una de ellas cuenta con su propio directorio independiente, donde se encuentran los scripts desarrollados y los archivos de prueba necesarios para su ejecución:
 
-* **`/p1`**: [Descripción opcional de la primera práctica].
-* **`/p2`**: [Descripción opcional de la segunda práctica].
+* **`/p1`**: Programación de la shell
+* **`/p2`**: Expresiones regulares para la programación de la shell
 * **`/p3`**: [Descripción opcional de la tercera práctica].
 * **`/p4`**: [Descripción opcional de la cuarta práctica].
 
